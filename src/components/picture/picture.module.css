@@ -1,0 +1,14 @@
+.picture{
+    width: 600px;
+    height: 600px;
+    background-color: rgb(243, 247, 204);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+.picture img{
+    width: 600px;
+    height: 600px;
+}

@@ -1,0 +1,60 @@
+.bottomBlock{
+    margin-top: 75px;
+    height: 125px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.buttonStart{
+    width: 120px;
+    height: 40px;
+    background-color: rgb(105, 207, 247);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+
+.prevInfo {
+    width: 150px;
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.prevInfo {
+    width: 70px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(242, 250, 196);
+    border: 1px solid black;
+}
+
+.prevInfo:last-of-type {
+    margin-left: 10px;
+}
+
+.selectImage {
+    display: flex;
+}
+
+.imageSelected {
+    width: 70px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(211, 61, 23);
+    border: 1px solid black;
+}
+
+.child {
+    font-size: 20px;
+}

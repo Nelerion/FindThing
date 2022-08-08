@@ -1,0 +1,26 @@
+.listObject{
+    width: 200px;
+    border: 2px solid gray;
+}
+
+.item{
+    
+    height: 20px;
+    margin: 5px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(254, 255, 211);
+}
+.itemFound{
+    
+    height: 20px;
+    margin: 5px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(228, 123, 97);
+    text-decoration: line-through;
+}
